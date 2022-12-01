@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <users>
-    <freelancers>
-        <name>Hemant</name>
-        <category>Web Developer</category>
+    <movies>
+        <name>Inception</name>
+        <category>Thriller</category>
         <rating>5</rating>
-    </freelancers>
-    <freelancers>
-        <name>Piyush</name>
-        <category>Android Developer</category>
-        <rating>5</rating>
-    </freelancers>
+    </movies>
+    <movies>
+        <name>Intersteller</name>
+        <category>Drama</category>
+        <rating>3</rating>
+    </movies>
 </users>
