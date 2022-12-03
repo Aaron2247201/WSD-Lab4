@@ -2,7 +2,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     background-color: black;
-    min-height: 100vh;
+    min-height: 150vh;
     width: 100vw;
     display: flex;
     flex-direction: column;
@@ -37,6 +37,7 @@ button:hover{
     justify-content: center;
     background-color: #fff;
     width: 40%;
+    padding: 20px;
 }
 
 .main-cont{
